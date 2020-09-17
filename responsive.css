@@ -1,0 +1,179 @@
+
+
+@media(max-width:504px){
+    .header-right{
+     margin-left: 98px;
+
+    }
+
+    .header-right::after{
+        margin-left: 20px;
+    }
+
+    .my-navber {
+       
+        margin-left: 122px;
+    }
+
+    .nav-btn li::after {
+        content: "";
+        position: absolute;
+   
+        left: 219px;
+        top: 391px;
+    }
+
+    .hosting-text h1 {
+      
+        font-size: 37px;
+       
+        padding: 1px;
+    }
+
+
+    .search-block {
+      
+        width: 440px;
+        padding: 14px;
+ 
+      
+     
+        margin-left: -7px;
+    }
+
+    .col-md-6.webhostbg-two {
+        margin-left: 106px;
+    
+        left: -104px;
+        color: rgb(255, 255, 255);
+        top: 1312px;
+      
+    }
+
+    .webhost-text p {
+        width: 459px;
+        margin-left: -7px;
+    }
+
+
+
+     .feature-block {
+            margin-top: 940px;
+
+        }
+
+        
+        .feature-img-one-text p {
+        
+            margin-bottom: 262px;
+        }
+
+
+        .overlaylast {
+            height: 1250px;
+        }
+
+        .client-heading-text h3 {
+        
+            text-align: center;
+        }
+
+        .clients-sponser {
+            text-align: center;
+        }
+
+
+        .plans-text {
+          
+            margin-left: 52px;
+        }
+        
+
+        button.plans-btn {
+        
+            margin-left: 143px;
+     
+        }
+
+
+        .footer-menu {
+           
+            float: right;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
